@@ -1,0 +1,3 @@
+cn.jonhon.jump.framework.security.config.JumpSecurityAutoConfiguration
+cn.jonhon.jump.framework.security.config.JumpWebSecurityConfigurerAdapter
+cn.jonhon.jump.framework.operatelog.config.JumpOperateLogConfiguration

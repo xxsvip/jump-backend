@@ -1,0 +1,3 @@
+cn.jonhon.jump.framework.mq.redis.config.JumpRedisMQProducerAutoConfiguration
+cn.jonhon.jump.framework.mq.redis.config.JumpRedisMQConsumerAutoConfiguration
+cn.jonhon.jump.framework.mq.rabbitmq.config.JumpRabbitMQAutoConfiguration

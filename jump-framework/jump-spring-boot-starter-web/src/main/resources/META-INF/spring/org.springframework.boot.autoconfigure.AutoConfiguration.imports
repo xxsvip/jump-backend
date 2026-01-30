@@ -1,0 +1,7 @@
+cn.jonhon.jump.framework.apilog.config.JumpApiLogAutoConfiguration
+cn.jonhon.jump.framework.jackson.config.JumpJacksonAutoConfiguration
+cn.jonhon.jump.framework.swagger.config.JumpSwaggerAutoConfiguration
+cn.jonhon.jump.framework.web.config.JumpWebAutoConfiguration
+cn.jonhon.jump.framework.xss.config.JumpXssAutoConfiguration
+cn.jonhon.jump.framework.banner.config.JumpBannerAutoConfiguration
+cn.jonhon.jump.framework.encrypt.config.JumpApiEncryptAutoConfiguration

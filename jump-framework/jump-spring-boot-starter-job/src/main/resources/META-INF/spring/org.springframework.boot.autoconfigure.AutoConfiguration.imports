@@ -1,0 +1,2 @@
+cn.jonhon.jump.framework.quartz.config.JumpQuartzAutoConfiguration
+cn.jonhon.jump.framework.quartz.config.JumpAsyncAutoConfiguration

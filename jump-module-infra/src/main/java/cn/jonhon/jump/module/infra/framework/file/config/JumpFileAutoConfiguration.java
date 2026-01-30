@@ -1,0 +1,21 @@
+package cn.jonhon.jump.module.infra.framework.file.config;
+
+import cn.jonhon.jump.module.infra.framework.file.core.client.FileClientFactory;
+import cn.jonhon.jump.module.infra.framework.file.core.client.FileClientFactoryImpl;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+/**
+ * 文件配置类
+ *
+ * @author 中航光电
+ */
+@Configuration(proxyBeanMethods = false)
+public class JumpFileAutoConfiguration {
+
+    @Bean
+    public FileClientFactory fileClientFactory() {
+        return new FileClientFactoryImpl();
+    }
+
+}

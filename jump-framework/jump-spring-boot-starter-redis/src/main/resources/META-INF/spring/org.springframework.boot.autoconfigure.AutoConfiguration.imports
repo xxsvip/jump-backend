@@ -1,0 +1,2 @@
+cn.jonhon.jump.framework.redis.config.JumpRedisAutoConfiguration
+cn.jonhon.jump.framework.redis.config.JumpCacheAutoConfiguration
